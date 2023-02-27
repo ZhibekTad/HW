@@ -1,0 +1,15 @@
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\obj\Debug\net6.0\Tak4.csproj.AssemblyReference.cache
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\obj\Debug\net6.0\Tak4.GeneratedMSBuildEditorConfig.editorconfig
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\obj\Debug\net6.0\Tak4.AssemblyInfoInputs.cache
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\obj\Debug\net6.0\Tak4.AssemblyInfo.cs
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\obj\Debug\net6.0\Tak4.csproj.CoreCompileInputs.cache
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\bin\Debug\net6.0\Tak4.exe
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\bin\Debug\net6.0\Tak4.deps.json
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\bin\Debug\net6.0\Tak4.runtimeconfig.json
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\bin\Debug\net6.0\Tak4.dll
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\bin\Debug\net6.0\Tak4.pdb
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\obj\Debug\net6.0\Tak4.dll
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\obj\Debug\net6.0\refint\Tak4.dll
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\obj\Debug\net6.0\Tak4.pdb
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\obj\Debug\net6.0\Tak4.genruntimeconfig.cache
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW1\Tak4\obj\Debug\net6.0\ref\Tak4.dll
